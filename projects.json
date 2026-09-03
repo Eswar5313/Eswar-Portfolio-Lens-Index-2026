@@ -1,0 +1,1855 @@
+{
+  "repo": "Eswar-Master-Project-Portfolio-2026",
+  "owner": "Eswar Mahalingam",
+  "total": 83,
+  "tracks": [
+    {
+      "slug": "01-HEXA-Data-Analytics",
+      "key": "hexa",
+      "title": "HEXA Solutions — Data Analytics Portfolio",
+      "tagline": "13 end-to-end analytics projects (EDA · SQL · statistics · ML · API pipelines) + the full portfolio submission package",
+      "role": "Data Analyst (Internship, Jun–Aug 2026)",
+      "org": "HEXA Solutions, Ghaziabad NCR",
+      "projects": [
+        {
+          "slug": "00-Portfolio-Package",
+          "title": "Portfolio Submission Package",
+          "summary": "Master documents that wrap the 13 projects: Capability Statement, 62-page Project Book, Methods Book, Operator–Analyst research paper and monograph, 100% Fitment Dossier, Evidence Casebook, Tools Mastery, 110-page Master Book, 7-tab Showcase Dashboard, Level-3 Learning Reflection deck, Interview Master Knowledge Book.",
+          "results": [
+            "Only dual-route verified figures printed: 99 AED/sqft, CSAT 4.48→3.66, r = −0.60",
+            "Integrity standard: AI partnership disclosed, substitutions declared"
+          ],
+          "tools": [
+            "Python",
+            "SQL",
+            "PDF",
+            "PPTX",
+            "HTML"
+          ],
+          "files": [
+            "Capability_Statement.pdf",
+            "Project_Book.pdf",
+            "Methods_Book.pdf",
+            "Operator_Analyst_Architecture.pdf",
+            "Fitment_Dossier.pdf",
+            "Master_Book.pdf",
+            "Portfolio_Showcase_Dashboard.html",
+            "Level3_Learning_Reflection.pptx",
+            "Interview_Master_Knowledge_Book.pdf"
+          ],
+          "tags": [
+            "Data",
+            "Docs"
+          ]
+        },
+        {
+          "slug": "01-FedEx-Logistics-EDA",
+          "title": "FedEx Logistics EDA",
+          "summary": "Exploratory analysis of shipment data — delivery timelines, route/mode mix, delay drivers and cost patterns, framed from a supply-chain operator's lens.",
+          "results": [
+            "Delay-driver breakdown by mode and lane",
+            "Operator-style recommendations"
+          ],
+          "tools": [
+            "Python",
+            "pandas",
+            "matplotlib",
+            "seaborn"
+          ],
+          "files": [
+            "FedEx_EDA_Report.pdf",
+            "FedEx_EDA_Presentation.pptx",
+            "fedex_eda.py / .ipynb"
+          ],
+          "tags": [
+            "Data",
+            "EDA",
+            "Supply Chain"
+          ]
+        },
+        {
+          "slug": "02-Mental-Health-in-Tech",
+          "title": "Mental Health in Tech Survey Analysis",
+          "summary": "EDA of the OSMI tech-workplace survey — treatment-seeking, employer support and workplace attitudes by company size and geography.",
+          "results": [
+            "Segmented view of support gaps by company size"
+          ],
+          "tools": [
+            "Python",
+            "pandas",
+            "seaborn"
+          ],
+          "files": [
+            "MentalHealth_Report.pdf",
+            "MentalHealth_Presentation.pptx",
+            "notebook"
+          ],
+          "tags": [
+            "Data",
+            "EDA",
+            "HR"
+          ]
+        },
+        {
+          "slug": "03-Flipkart-CSAT-Analysis",
+          "title": "Flipkart Customer Satisfaction (CSAT)",
+          "summary": "Customer-support CSAT analysis across channels, agents, shifts and issue categories with an interactive Chart.js dashboard.",
+          "results": [
+            "CSAT gradient 4.48 → 3.66 across the studied dimension (verified)",
+            "Self-contained interactive dashboard"
+          ],
+          "tools": [
+            "Python",
+            "pandas",
+            "Chart.js",
+            "HTML"
+          ],
+          "files": [
+            "Flipkart_CSAT_Report.pdf",
+            "Flipkart_CSAT_Presentation.pptx",
+            "flipkart_csat_dashboard.html"
+          ],
+          "tags": [
+            "Data",
+            "EDA",
+            "Dashboard",
+            "CX"
+          ]
+        },
+        {
+          "slug": "04-Zomato-Restaurant-EDA",
+          "title": "Zomato Restaurant EDA",
+          "summary": "Restaurant ratings, cuisines, cost-for-two and online-order behaviour analysed by city/locality.",
+          "results": [
+            "Cuisine × price × rating patterns"
+          ],
+          "tools": [
+            "Python",
+            "pandas",
+            "seaborn"
+          ],
+          "files": [
+            "Zomato_EDA_Report.pdf",
+            "Zomato_EDA_Presentation.pptx",
+            "notebook"
+          ],
+          "tags": [
+            "Data",
+            "EDA",
+            "Food-tech"
+          ]
+        },
+        {
+          "slug": "05-Amazon-Prime-Catalogue-EDA",
+          "title": "Amazon Prime Video Catalogue EDA",
+          "summary": "Content-catalogue analysis — genres, release years, ratings, countries and runtime distributions.",
+          "results": [
+            "Catalogue mix and growth view"
+          ],
+          "tools": [
+            "Python",
+            "pandas",
+            "matplotlib"
+          ],
+          "files": [
+            "AmazonPrime_EDA_Report.pdf",
+            "AmazonPrime_EDA_Presentation.pptx",
+            "notebook"
+          ],
+          "tags": [
+            "Data",
+            "EDA",
+            "Media"
+          ]
+        },
+        {
+          "slug": "06-Video-Game-Sales",
+          "title": "Video Game Sales Analysis",
+          "summary": "Global/regional sales by platform, genre and publisher with trend and market-share views.",
+          "results": [
+            "Platform and genre leaders by region"
+          ],
+          "tools": [
+            "Python",
+            "pandas",
+            "seaborn"
+          ],
+          "files": [
+            "VideoGameSales_Report.pdf",
+            "VideoGameSales_Presentation.pptx",
+            "notebook"
+          ],
+          "tags": [
+            "Data",
+            "EDA",
+            "Retail"
+          ]
+        },
+        {
+          "slug": "07-SQL-NSE-Stock-Market",
+          "title": "SQL — NSE Stock Market Analysis",
+          "summary": "SQLite database of NSE equities with SQL queries for returns, volatility, moving averages and sector comparisons.",
+          "results": [
+            "Reusable SQL query bank + SQLite DB"
+          ],
+          "tools": [
+            "SQL",
+            "SQLite",
+            "Python"
+          ],
+          "files": [
+            "NSE_SQL_Report.pdf",
+            "NSE_SQL_Presentation.pptx",
+            "nse.db",
+            "queries.sql"
+          ],
+          "tags": [
+            "Data",
+            "SQL",
+            "Finance"
+          ]
+        },
+        {
+          "slug": "08-India-EV-Dashboard",
+          "title": "India EV Market Dashboard",
+          "summary": "EV registrations/sales by state, segment and maker with a dashboard view of adoption trends.",
+          "results": [
+            "State-wise adoption dashboard"
+          ],
+          "tools": [
+            "Python",
+            "Tableau / Plotly",
+            "Excel"
+          ],
+          "files": [
+            "IndiaEV_Report.pdf",
+            "IndiaEV_Presentation.pptx",
+            "dashboard"
+          ],
+          "tags": [
+            "Data",
+            "Dashboard",
+            "EV"
+          ]
+        },
+        {
+          "slug": "09-Airbnb-Dashboard",
+          "title": "Airbnb Listings Dashboard",
+          "summary": "Listing prices, availability, room types and neighbourhood analysis presented as a dashboard.",
+          "results": [
+            "Price and availability heat-map by neighbourhood"
+          ],
+          "tools": [
+            "Python",
+            "Tableau / Plotly"
+          ],
+          "files": [
+            "Airbnb_Report.pdf",
+            "Airbnb_Presentation.pptx",
+            "dashboard"
+          ],
+          "tags": [
+            "Data",
+            "Dashboard",
+            "Hospitality"
+          ]
+        },
+        {
+          "slug": "10-Strava-Fitbit-Fitness-Analytics",
+          "title": "Strava / Fitbit Fitness Analytics",
+          "summary": "Activity, sleep and sedentary-time analysis from wearable exports with correlation study.",
+          "results": [
+            "Sedentary-time × sleep correlation r = −0.60 (verified)"
+          ],
+          "tools": [
+            "Python",
+            "pandas",
+            "scipy"
+          ],
+          "files": [
+            "Fitness_Report.pdf",
+            "Fitness_Presentation.pptx",
+            "notebook"
+          ],
+          "tags": [
+            "Data",
+            "Statistics",
+            "Health-tech"
+          ]
+        },
+        {
+          "slug": "11-Uber-Supply-Demand-Gap",
+          "title": "Uber Supply–Demand Gap",
+          "summary": "Request/cancellation/no-car patterns by hour and pickup point to locate the supply gap.",
+          "results": [
+            "Hour-band supply-gap diagnosis"
+          ],
+          "tools": [
+            "Python",
+            "pandas",
+            "seaborn"
+          ],
+          "files": [
+            "UberGap_Report.pdf",
+            "UberGap_Presentation.pptx",
+            "notebook"
+          ],
+          "tags": [
+            "Data",
+            "EDA",
+            "Mobility"
+          ]
+        },
+        {
+          "slug": "12-Tennis-SportRadar-API-Pipeline",
+          "title": "Tennis SportRadar API Pipeline",
+          "summary": "API ingestion → SQLite → Streamlit app for competitions, rankings and venues.",
+          "results": [
+            "Working API-to-app pipeline (Streamlit)"
+          ],
+          "tools": [
+            "Python",
+            "REST API",
+            "SQLite",
+            "Streamlit"
+          ],
+          "files": [
+            "Tennis_Report.pdf",
+            "Tennis_Presentation.pptx",
+            "app.py",
+            "tennis.db"
+          ],
+          "tags": [
+            "Data",
+            "API",
+            "App"
+          ]
+        },
+        {
+          "slug": "13-Dubai-House-Price-Model",
+          "title": "Dubai House Price Model",
+          "summary": "Regression model of Dubai property prices by area, size, type and amenities.",
+          "results": [
+            "Price-per-sqft baseline ≈ 99 AED (verified)"
+          ],
+          "tools": [
+            "Python",
+            "scikit-learn",
+            "pandas"
+          ],
+          "files": [
+            "DubaiPrice_Report.pdf",
+            "DubaiPrice_Presentation.pptx",
+            "notebook"
+          ],
+          "tags": [
+            "Data",
+            "ML",
+            "Real Estate"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "02-Product-Management-Case-Studies",
+      "key": "pm",
+      "title": "Product Management — Case Studies",
+      "tagline": "AI-First PM cohort assignments and strategy cases — each with PDF, live-formula workbook and deck; no fabricated user data",
+      "role": "AI-First Product Management cohort (Airtribe, Jun 2026–Jan 2027)",
+      "org": "Airtribe / self-directed",
+      "projects": [
+        {
+          "slug": "01-Nykaa-UX-Exploration",
+          "title": "Nykaa App — UX Exploration & Decision Model",
+          "summary": "Goal-driven app exploration, friction log, Severity×Frequency matrix, RICE scoring, 50-session study design, plus a 50-product ValueIndex decision model (declared-synthetic).",
+          "results": [
+            "Master Edition PDF with embedded 380-formula workbook",
+            "Decision Model: Best/Improve/Worst classification, 50-action taxonomy"
+          ],
+          "tools": [
+            "PDF",
+            "Excel",
+            "Loom",
+            "Gamma"
+          ],
+          "files": [
+            "Nykaa_UX_Master_Edition.pdf",
+            "Nykaa_Product_Decision_Model.pdf",
+            "Nykaa_Enhanced_Workbook.xlsx",
+            "UX_Enhanced_Deck.pptx",
+            "Nykaa_UX_Clinical_Blueprint.pdf"
+          ],
+          "tags": [
+            "Product",
+            "UX",
+            "Research"
+          ]
+        },
+        {
+          "slug": "02-AI-Customer-Operations-Platform-B2B-SaaS",
+          "title": "B2B SaaS Strategy — AI Customer Operations Platform",
+          "summary": "Evolving a support chatbot into an AI Customer Operations Platform vs Intercom/Zendesk/Freshdesk/Salesforce — segment, market sizing, core problem, moats, land-and-expand.",
+          "results": [
+            "11-sheet / 211-formula justification workbook, CFO ROI 8.4×, 36-cell sensitivity grid",
+            "10-slide CV-format deck, 10-page master PDF"
+          ],
+          "tools": [
+            "PDF",
+            "Excel",
+            "PPTX"
+          ],
+          "files": [
+            "CV_Step1..6.pdf",
+            "MASTER_CVFormat.pdf",
+            "Strategy_Justification_Workbook.xlsx",
+            "Strategy_Deck_CVFormat.pptx"
+          ],
+          "tags": [
+            "Product",
+            "Strategy",
+            "B2B"
+          ]
+        },
+        {
+          "slug": "03-Uber-Pickup-Coordination",
+          "title": "Uber — Proactive Pickup Guidance",
+          "summary": "Should Uber guide riders to better pickup points in dense areas? Market research + competitive analysis, Five Forces, TAM/SAM/SOM, interview toolkit and 8-sheet workbook with pivots.",
+          "results": [
+            "14-page master, 11-slide zero-white-space deck",
+            "72 live formulas; SAM/SOM left as user-input cells (no fabricated %)"
+          ],
+          "tools": [
+            "PDF",
+            "Excel",
+            "PPTX"
+          ],
+          "files": [
+            "Uber_Pickup_MASTER.pdf",
+            "Uber_Pickup_Step1_MarketResearch_CompAnalysis.pdf",
+            "Uber_Pickup_Step2_InterviewToolkit.pdf",
+            "Uber_Pickup_Workbook.xlsx",
+            "Uber_Pickup_Deck.pptx"
+          ],
+          "tags": [
+            "Product",
+            "Research",
+            "Mobility"
+          ]
+        },
+        {
+          "slug": "04-Zepto-AOV-Basket-Size",
+          "title": "Zepto — Growing Basket Size / AOV",
+          "summary": "Group case: segmentation, blockers & problem framing (JTBD, Five Whys), 2–3 solutions and RICE prioritisation backed by Excel calculations.",
+          "results": [
+            "Segment cards + RICE ranking with workbook support"
+          ],
+          "tools": [
+            "PDF",
+            "Excel"
+          ],
+          "files": [
+            "Zepto_AOV_Case_Study.pdf",
+            "Zepto_AOV_Workbook.xlsx"
+          ],
+          "tags": [
+            "Product",
+            "Growth",
+            "Quick-commerce"
+          ]
+        },
+        {
+          "slug": "05-VitaFit-PRD-and-Core-Flows",
+          "title": "VitaFit — PRD for Engagement & Retention Features",
+          "summary": "PRD for Squads & Streak Challenges and Instructor Circles & Coach Notes; 6 flowcharts, 18 wireframes, event schema; research annex with 12 sources and FigJam boards.",
+          "results": [
+            "50-page master; 13-sheet / 1,503-formula workbook, 0 errors",
+            "North Star WAE, +15% W4 retention target via 8-week holdout"
+          ],
+          "tools": [
+            "PDF",
+            "Excel",
+            "PPTX",
+            "Figma/FigJam"
+          ],
+          "files": [
+            "VitaFit_MASTER.pdf",
+            "VitaFit_Part1_PRD.pdf",
+            "VitaFit_Part2_CoreFlows.pdf",
+            "VitaFit_Part3_Research_Figma_Annex.pdf",
+            "VitaFit_Workbook.xlsx",
+            "VitaFit_Deck.pptx"
+          ],
+          "tags": [
+            "Product",
+            "PRD",
+            "Health-tech"
+          ]
+        },
+        {
+          "slug": "06-Blinkit-Strategy-Roadmap",
+          "title": "Blinkit — Strategy & 5/10-Year Roadmap",
+          "summary": "Role of the company, strategy improvements (partner conduct, affordability, premium add-ons) and a data-to-implementation roadmap; 3-slide deep-dive deck.",
+          "results": [
+            "One-page PDF + 3-slide navy/gold deck"
+          ],
+          "tools": [
+            "PDF",
+            "PPTX"
+          ],
+          "files": [
+            "Blinkit_Strategy.pdf",
+            "Blinkit_Strategy_Deck.pptx"
+          ],
+          "tags": [
+            "Product",
+            "Strategy",
+            "Quick-commerce"
+          ]
+        },
+        {
+          "slug": "07-Grocery-Delivery-Segmentation-Sprint",
+          "title": "Grocery Delivery — STP Segmentation Sprint",
+          "summary": "From twelve interview questions to one target segment: 4 segment cards, 5-filter scorecard, Schedule Selector chosen as target (PM Strategy Series).",
+          "results": [
+            "Target segment selected via 5-filter scorecard"
+          ],
+          "tools": [
+            "PDF",
+            "HTML"
+          ],
+          "files": [
+            "Segmentation_Sprint.pdf",
+            "blog.html"
+          ],
+          "tags": [
+            "Product",
+            "Research",
+            "Quick-commerce"
+          ]
+        },
+        {
+          "slug": "08-PM-Lesson-Notes-and-Trends",
+          "title": "PM Cohort Lesson Notes & 2026 PM Trends",
+          "summary": "Consolidated Sessions 1–6 notes (fundamentals, product sense, strategy, moats, market research, STP), 2026 PM-trends brief and skills-gap analysis vs live PM JDs.",
+          "results": [
+            "Lesson-notes PDF + PPT, trends PDF + PPT, skills-gap analysis"
+          ],
+          "tools": [
+            "PDF",
+            "PPTX"
+          ],
+          "files": [
+            "PM_Lesson_Notes.pdf",
+            "PM_Trends_2026.pdf",
+            "Skills_Gap_Analysis.pdf"
+          ],
+          "tags": [
+            "Product",
+            "Learning"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "03-Internship-Studio-Projects",
+      "key": "istudio",
+      "title": "Internship Studio — 16 Multi-Domain Projects",
+      "tagline": "Aug-2026 technical packs (01–07) + upgraded July submissions (08–16); every pack has brief/, report PDF, README and working files",
+      "role": "Multi-domain intern (Apr 2026–Present)",
+      "org": "Internship Studio",
+      "projects": [
+        {
+          "slug": "01-Exam-Proctoring-AI-Panopticon",
+          "title": "Project Panopticon — AI Exam Proctoring",
+          "summary": "Merge system events with video telemetry (merge_asof, ffill), 10-s rolling windows, balanced RandomForest, 0.90 precision threshold with PR curve.",
+          "results": [
+            "Precision 1.00 / recall 0.48 at 0.90 threshold → GO"
+          ],
+          "tools": [
+            "Python",
+            "pandas",
+            "scikit-learn",
+            "Jupyter"
+          ],
+          "files": [
+            "panopticon.ipynb",
+            "report.pdf",
+            "system_events.csv",
+            "video_telemetry generator"
+          ],
+          "tags": [
+            "AI",
+            "ML",
+            "Python"
+          ]
+        },
+        {
+          "slug": "02-Predictive-Maintenance-IoT-ML",
+          "title": "Project Overheat — Predictive Maintenance",
+          "summary": "12-h rolling sensor features, 24-h target shift, chronological split, balanced RF with feature importance.",
+          "results": [
+            "3/3 test failures warned 23–24 h ahead at threshold 0.20",
+            "Top features: Sensor_Vibration_mm 0.388, Temp_Rolling_Mean_12h 0.262"
+          ],
+          "tools": [
+            "Python",
+            "scikit-learn",
+            "Jupyter"
+          ],
+          "files": [
+            "predictive_maintenance_final.ipynb",
+            "report.pdf"
+          ],
+          "tags": [
+            "Data Science",
+            "ML",
+            "IoT"
+          ]
+        },
+        {
+          "slug": "03-Regression-Test-Prioritisation-APFD",
+          "title": "OrderFlow — Regression Test Prioritisation (APFD)",
+          "summary": "APFD / greedy prioritisation, set-cover reduction and 20-minute budget selection built in Excel with a report.",
+          "results": [
+            "APFD 75.83% → 89.17%; reduced suite T7,T1,T6,T8 = 16 min (−62.8%)",
+            "3,108 live formulas"
+          ],
+          "tools": [
+            "Excel",
+            "PDF"
+          ],
+          "files": [
+            "OrderFlow_APFD_Workbook.xlsx",
+            "report.pdf"
+          ],
+          "tags": [
+            "Software Testing",
+            "Excel"
+          ]
+        },
+        {
+          "slug": "04-Smart-Library-Management-CPP",
+          "title": "Smart Library Management System (C++ & DSA)",
+          "summary": "Linked-list catalogue, stack-based undo, queue reservations, sorting, books.txt loader.",
+          "results": [
+            "Compiles clean with -Wall -Wextra; valgrind 0 leaks"
+          ],
+          "tools": [
+            "C++",
+            "DSA"
+          ],
+          "files": [
+            "library_system.cpp",
+            "books.txt",
+            "report.pdf"
+          ],
+          "tags": [
+            "C++",
+            "DSA"
+          ]
+        },
+        {
+          "slug": "05-Textile-Electricity-Bill-Energy-Audit",
+          "title": "Textile Mill — HT Electricity Bill Energy Audit",
+          "summary": "Bill reconstruction, TOD/PF/MD analysis and savings measures (APFC, demand controller, TOD shift, IE3+VFD, LED).",
+          "results": [
+            "Annual bill ₹10.76 Cr @ ₹10.26/kWh; savings ₹81.9 L = 7.6%",
+            "1,062 formulas"
+          ],
+          "tools": [
+            "Excel",
+            "PDF"
+          ],
+          "files": [
+            "Energy_Audit_Workbook.xlsx",
+            "report.pdf"
+          ],
+          "tags": [
+            "Energy",
+            "Excel"
+          ]
+        },
+        {
+          "slug": "06-RCC-Structural-Design-IS456",
+          "title": "RCC Structural Design (IS 456)",
+          "summary": "One-way slab 10×4 m (M25/Fe415), doubly-reinforced hall slab + beam (M20/Fe415), biaxial column 3 m.",
+          "results": [
+            "Slab D170 10@120; beam 400×750 8-32 + 8-25; column 300×450 8-16, interaction 0.389"
+          ],
+          "tools": [
+            "Excel",
+            "PDF"
+          ],
+          "files": [
+            "RCC_Design_Calcs.xlsx",
+            "report.pdf"
+          ],
+          "tags": [
+            "Civil",
+            "Structures"
+          ]
+        },
+        {
+          "slug": "07-CartShare-Collaborative-Cart",
+          "title": "CartShare — Collaborative Shopping Cart Web App",
+          "summary": "Static HTML/CSS/JS collaborative cart, deployed on GitHub Pages; Playwright-tested.",
+          "results": [
+            "54/54 Playwright checks passing"
+          ],
+          "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Playwright"
+          ],
+          "files": [
+            "index.html",
+            "app.js",
+            "styles.css",
+            "tests/"
+          ],
+          "tags": [
+            "Web",
+            "JavaScript"
+          ],
+          "live": true
+        },
+        {
+          "slug": "08-AutoCAD-Civil-Electrical-Mechanical",
+          "title": "AutoCAD — Civil / Electrical / Mechanical Drawings",
+          "summary": "Single-storey plan, amplitude-limiter schematic + wiring schedule, screw-jack 7-part sheet + assembly/BOM authored as DXF.",
+          "results": [
+            "1,230 entities, DXF audit 0 errors"
+          ],
+          "tools": [
+            "AutoCAD",
+            "ezdxf",
+            "DXF"
+          ],
+          "files": [
+            "*.dxf",
+            "drawing PDFs (export from AutoCAD)",
+            "report.pdf"
+          ],
+          "tags": [
+            "AutoCAD",
+            "Engineering"
+          ]
+        },
+        {
+          "slug": "09-Financial-Ratio-Analysis-Aurora-Foods",
+          "title": "Finance — Ratio Analysis & Aurora Consumer Foods",
+          "summary": "Case studies (D/E, dilution) and 2-year articulated statements reproducing target ratios with an investment verdict.",
+          "results": [
+            "Ravi D/E 1.50→1.92; Vijay 10% issue = ₹2.6 L / 9.09% dilution; Aurora: BUY/ACCUMULATE"
+          ],
+          "tools": [
+            "Excel",
+            "PDF"
+          ],
+          "files": [
+            "Finance_Workbook.xlsx",
+            "report.pdf"
+          ],
+          "tags": [
+            "Finance",
+            "Excel"
+          ]
+        },
+        {
+          "slug": "10-Multi-Region-Sales-Dashboard-Excel",
+          "title": "Excel — Multi-Region Sales Dashboard",
+          "summary": "645-row declared-synthetic sales dataset with regional/rep dashboard, 12,621 formulas.",
+          "results": [
+            "₹14.26 Cr revenue = 101% of target; West best, South under target"
+          ],
+          "tools": [
+            "Excel"
+          ],
+          "files": [
+            "Sales_Dashboard.xlsx",
+            "report.pdf"
+          ],
+          "tags": [
+            "Excel",
+            "Dashboard",
+            "Sales"
+          ]
+        },
+        {
+          "slug": "11-HR-Policy-Framework-Onboarding-Engagement",
+          "title": "HR — Policy Framework, Onboarding & Engagement",
+          "summary": "18-page ABC Co. policy manual (induction, 90-day onboarding, discipline ladder, POSH/maternity, engagement proposal) + budget workbook.",
+          "results": [
+            "Engagement budget ₹4,00,000 = ₹5,714/employee (0.95% of payroll)"
+          ],
+          "tools": [
+            "Word/PDF",
+            "Excel"
+          ],
+          "files": [
+            "HR_Policy_Manual.pdf",
+            "HR_Workbook.xlsx"
+          ],
+          "tags": [
+            "HR",
+            "Policy"
+          ]
+        },
+        {
+          "slug": "12-Student-Performance-ML-Regression",
+          "title": "ML — Student Performance Regression",
+          "summary": "Ridge regression on the real StudentsPerformance dataset, report + notebook + standalone script (dataset not redistributed).",
+          "results": [
+            "R² 0.8805, MAE 4.21"
+          ],
+          "tools": [
+            "Python",
+            "scikit-learn",
+            "Jupyter"
+          ],
+          "files": [
+            "student_performance.ipynb",
+            "train.py",
+            "report.pdf"
+          ],
+          "tags": [
+            "ML",
+            "Python"
+          ]
+        },
+        {
+          "slug": "13-AWS-EC2-S3-NodeJS-ROS-Deployment",
+          "title": "AWS — EC2 + S3 Node.js app & ROS Noetic deployment",
+          "summary": "Express gallery app (declared substitute), 11 CLI/bootstrap scripts, EC2/S3 + ROS runbooks; screenshots to be captured by me.",
+          "results": [
+            "7/7 local tests; t2.micro needs 2 GB swap (documented)"
+          ],
+          "tools": [
+            "AWS EC2",
+            "S3",
+            "Node.js",
+            "ROS"
+          ],
+          "files": [
+            "app/",
+            "scripts/",
+            "runbook.pdf",
+            "screenshots/ (add)"
+          ],
+          "tags": [
+            "Cloud",
+            "AWS",
+            "Node.js"
+          ]
+        },
+        {
+          "slug": "14-Employee-Wellbeing-Program-TechX",
+          "title": "Corporate Psychology — TechX Thrive Wellbeing Program",
+          "summary": "Proposal, evaluation plan and reflective report: 5 pillars, 27 interventions, 20 KPIs, pilot-vs-comparison DiD design.",
+          "results": [
+            "Year-1 budget ₹1.21 Cr = ₹23,341/employee"
+          ],
+          "tools": [
+            "PDF",
+            "Excel"
+          ],
+          "files": [
+            "TechX_Thrive_Proposal.pdf",
+            "Evaluation_Plan.pdf",
+            "budget.xlsx"
+          ],
+          "tags": [
+            "Psychology",
+            "HR"
+          ]
+        },
+        {
+          "slug": "15-Illustrator-Vector-Design-Portfolio",
+          "title": "Adobe Illustrator — Vector Design Portfolio",
+          "summary": "34 original SVGs: icon set, tee graphic, poster series, patterns, mascot family, café social kit, 3D lettering; 10-page portfolio PDF.",
+          "results": [
+            "34 originals, no stock or copied art"
+          ],
+          "tools": [
+            "Illustrator",
+            "SVG"
+          ],
+          "files": [
+            "svg/",
+            "portfolio.pdf",
+            "exported artwork (add .ai/.png)"
+          ],
+          "tags": [
+            "Design",
+            "Illustrator"
+          ]
+        },
+        {
+          "slug": "16-EcoStyle-Facebook-Ads-Campaign-Plan",
+          "title": "Digital Marketing — EcoStyle Facebook Ads Campaign",
+          "summary": "Campaign workbook, 5 ad creatives and 12-page report for a fashion brand.",
+          "results": [
+            "Base case 181 purchases, ₹2.72 L revenue, ROAS 4.53×, CPA ₹331, +23.5% sales"
+          ],
+          "tools": [
+            "Excel",
+            "PDF",
+            "Design"
+          ],
+          "files": [
+            "EcoStyle_Campaign_Workbook.xlsx",
+            "creatives/",
+            "report.pdf"
+          ],
+          "tags": [
+            "Marketing",
+            "Excel"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "04-Codec-Technologies-EV-and-Cyber",
+      "key": "codec",
+      "title": "Codec Technologies — EV (10) + Cyber Security (20)",
+      "tagline": "30 engineering & security projects, 452 automated tests; hardware/MATLAB briefs delivered as Python equivalents, all cyber work defensive on localhost labs or declared-synthetic data",
+      "role": "Intern — Electric Vehicle · Cyber Security (Aug 2026–Present)",
+      "org": "Codec Technologies India",
+      "projects": [
+        {
+          "slug": "EV-01-BMS-Simulation",
+          "title": "EV 01 — Battery Management System Simulation",
+          "summary": "96s2p pack model with EKF state-of-charge estimation, SOH tracking and thermal manager.",
+          "results": [
+            "EKF SOC RMSE 0.63%; SOH 90.1% after 500 cycles; 23 tests"
+          ],
+          "tools": [
+            "Python",
+            "NumPy"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "EV",
+            "Simulation"
+          ]
+        },
+        {
+          "slug": "EV-02-Charging-Station-Locator-App",
+          "title": "EV 02 — Charging Station Locator App",
+          "summary": "Expo / React Native app with map search and station details.",
+          "results": [
+            "Jest test suite"
+          ],
+          "tools": [
+            "React Native",
+            "Expo",
+            "Jest"
+          ],
+          "files": [
+            "app/",
+            "tests/"
+          ],
+          "tags": [
+            "EV",
+            "Mobile"
+          ]
+        },
+        {
+          "slug": "EV-03-Solar-EV-Charging-Station",
+          "title": "EV 03 — Solar EV Charging Station Design",
+          "summary": "Sizing and yield model using real NASA POWER irradiance data.",
+          "results": [
+            "Real NASA POWER data pipeline"
+          ],
+          "tools": [
+            "Python",
+            "NASA POWER API"
+          ],
+          "files": [
+            "src/",
+            "tests/"
+          ],
+          "tags": [
+            "EV",
+            "Solar"
+          ]
+        },
+        {
+          "slug": "EV-04-AI-Driving-Efficiency-Optimizer",
+          "title": "EV 04 — AI Driving Efficiency Optimizer",
+          "summary": "Declared-synthetic 2,000-trip simulator, GradientBoosting model and counterfactual tip recommender.",
+          "results": [
+            "R² 0.975; 13 tests; executed notebook"
+          ],
+          "tools": [
+            "Python",
+            "scikit-learn"
+          ],
+          "files": [
+            "notebook.ipynb",
+            "src/",
+            "tests/"
+          ],
+          "tags": [
+            "EV",
+            "ML"
+          ]
+        },
+        {
+          "slug": "EV-05-Drivetrain-Modeling",
+          "title": "EV 05 — EV Drivetrain Modeling",
+          "summary": "Motor/inverter/gear drivetrain model with drive-cycle simulation (Python equivalent of MATLAB brief).",
+          "results": [
+            "Drive-cycle energy results + tests"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/"
+          ],
+          "tags": [
+            "EV",
+            "Simulation"
+          ]
+        },
+        {
+          "slug": "EV-06-IoT-EV-Health-Dashboard",
+          "title": "EV 06 — IoT EV Health Dashboard",
+          "summary": "Telemetry ingestion and health dashboard with compile-checked ESP8266 firmware.",
+          "results": [
+            "Firmware compile-checked (not run on hardware)"
+          ],
+          "tools": [
+            "Python",
+            "ESP8266",
+            "Dashboard"
+          ],
+          "files": [
+            "firmware/",
+            "dashboard/",
+            "tests/"
+          ],
+          "tags": [
+            "EV",
+            "IoT"
+          ]
+        },
+        {
+          "slug": "EV-07-EV-Lifecycle-Analysis",
+          "title": "EV 07 — EV Lifecycle (LCA) Analysis",
+          "summary": "Cradle-to-grave emissions comparison using cited ICCT / CEA factors.",
+          "results": [
+            "Sourced emission factors, scenario tables"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "report"
+          ],
+          "tags": [
+            "EV",
+            "Sustainability"
+          ]
+        },
+        {
+          "slug": "EV-08-Smart-Traffic-Light-EV-Priority",
+          "title": "EV 08 — Smart Traffic Light with EV Priority",
+          "summary": "Signal controller simulation plus Arduino firmware for EV priority.",
+          "results": [
+            "Arduino firmware compile-checked"
+          ],
+          "tools": [
+            "Python",
+            "Arduino"
+          ],
+          "files": [
+            "firmware/",
+            "src/",
+            "tests/"
+          ],
+          "tags": [
+            "EV",
+            "Embedded"
+          ]
+        },
+        {
+          "slug": "EV-09-Wireless-Charging-Design",
+          "title": "EV 09 — Wireless Charging Design",
+          "summary": "Coil/coupling design calculations (Python equivalent of COMSOL brief).",
+          "results": [
+            "Design tables + tests"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/"
+          ],
+          "tags": [
+            "EV",
+            "Power"
+          ]
+        },
+        {
+          "slug": "EV-10-EV-Market-Forecast-Dashboard",
+          "title": "EV 10 — EV Market Forecast Dashboard",
+          "summary": "Real IEA Global EV Outlook data via API, 20 sourced policies, logistic/Bass/CAGR forecasts to 2035, Plotly Dash app + static HTML.",
+          "results": [
+            "40 tests; forecasts to 2035"
+          ],
+          "tools": [
+            "Python",
+            "Plotly Dash",
+            "IEA API"
+          ],
+          "files": [
+            "app.py",
+            "dashboard.html",
+            "tests/"
+          ],
+          "tags": [
+            "EV",
+            "Dashboard",
+            "Forecasting"
+          ]
+        },
+        {
+          "slug": "CYBER-01-Project",
+          "title": "Cyber 01 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-02-Project",
+          "title": "Cyber 02 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-03-Intrusion-Detection-NSL-KDD",
+          "title": "Cyber 03 — Intrusion Detection System (NSL-KDD)",
+          "summary": "ML-based IDS trained on the real NSL-KDD dataset.",
+          "results": [
+            "Real NSL-KDD data; classification report"
+          ],
+          "tools": [
+            "Python",
+            "scikit-learn"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-04-Phishing-Detection-and-Awareness",
+          "title": "Cyber 04 — Phishing Detection + Safe Awareness",
+          "summary": "URL/mail phishing detection using URLhaus & Umbrella feeds — detection and awareness only, no credential pages.",
+          "results": [
+            "Real threat-feed data; declared defensive substitute"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-05-Project",
+          "title": "Cyber 05 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-06-Project",
+          "title": "Cyber 06 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-07-Project",
+          "title": "Cyber 07 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-08-Project",
+          "title": "Cyber 08 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-09-Project",
+          "title": "Cyber 09 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-10-Project",
+          "title": "Cyber 10 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-11-Project",
+          "title": "Cyber 11 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-12-Project",
+          "title": "Cyber 12 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-13-Ransomware-Behaviour-Detector",
+          "title": "Cyber 13 — Ransomware-Behaviour Detector",
+          "summary": "Detects ransomware-like file behaviour on a sandboxed benign workload — no malware written or run (declared substitute).",
+          "results": [
+            "Sandboxed /tmp benign workload; detector tests"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-14-Credential-Leak-Threat-Intel-Monitor",
+          "title": "Cyber 14 — Credential-Leak / Threat-Intel Monitor",
+          "summary": "k-anonymity credential-leak checks and threat-intel monitoring on lawful/synthetic sources (declared substitute for dark-web brief).",
+          "results": [
+            "k-anonymity lookup; synthetic sources"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-15-SMS-Spam-Classifier",
+          "title": "Cyber 15 — SMS Spam Classifier",
+          "summary": "Text classifier on the UCI SMS Spam collection.",
+          "results": [
+            "Real UCI dataset; precision/recall report"
+          ],
+          "tools": [
+            "Python",
+            "scikit-learn"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-16-Project",
+          "title": "Cyber 16 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-17-Project",
+          "title": "Cyber 17 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-18-Project",
+          "title": "Cyber 18 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-19-Project",
+          "title": "Cyber 19 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        },
+        {
+          "slug": "CYBER-20-Project",
+          "title": "Cyber 20 — (fill title from repo folder)",
+          "summary": "Defensive/educational project against a self-contained localhost lab target.",
+          "results": [
+            "Tests passing (see folder)"
+          ],
+          "tools": [
+            "Python"
+          ],
+          "files": [
+            "src/",
+            "tests/",
+            "README.md"
+          ],
+          "tags": [
+            "Cyber",
+            "Security"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "05-Excel-Data-Analytics-Module",
+      "key": "excel",
+      "title": "Data Analytics Module 1 — Excel Mastery",
+      "tagline": "Three assignments, one merged workbook: 5,149 live formulas, 0 errors, 187 documented steps, 12 charts",
+      "role": "Data Analytics trainee (Aug 2026)",
+      "org": "Data Analytics program",
+      "projects": [
+        {
+          "slug": "01-Data-Exploration",
+          "title": "Assignment 1 — Data Exploration",
+          "summary": "Dataset + one sheet per question Q1–Q5 + summary dashboard; every sheet carries a STEP-BY-STEP METHOD block with the exact formula.",
+          "results": [
+            "34 products, total $10,100, avg $297.06; 758 live formulas"
+          ],
+          "tools": [
+            "Excel"
+          ],
+          "files": [
+            "Excel_Assignment1_Data_Exploration_Eswar.xlsx",
+            ".pdf"
+          ],
+          "tags": [
+            "Excel"
+          ]
+        },
+        {
+          "slug": "02-Data-Cleaning-Pipeline",
+          "title": "Assignment 2 — Data Cleaning Pipeline",
+          "summary": "Sequential 9-stage pipeline (raw → missing → standardise → duplicates → split/merge → formats → conditional formats → cleaned → audit); 16-page report with 67-step formula register.",
+          "results": [
+            "34→32 rows, 6→11 columns; 2,894 live formulas; defects declared as injected"
+          ],
+          "tools": [
+            "Excel",
+            "PDF"
+          ],
+          "files": [
+            "Excel_Assignment2_Data_Cleaning_Eswar.xlsx",
+            ".pdf"
+          ],
+          "tags": [
+            "Excel"
+          ]
+        },
+        {
+          "slug": "03-Advanced-Analysis-Lookups-Pivots-Dashboard",
+          "title": "Assignment 3 — Advanced Analysis",
+          "summary": "VLOOKUP/HLOOKUP/INDEX-MATCH, 5 pivot cross-tabs, 6 charts, forecasting/trend, interactive dashboard with 3 drop-downs.",
+          "results": [
+            "1,497 formulas, 0 errors; dashboard tested on 3 filter combinations"
+          ],
+          "tools": [
+            "Excel",
+            "PDF"
+          ],
+          "files": [
+            "Excel_Assignment3_Advanced_Analysis_Eswar.xlsx",
+            "Step_and_Formula_Register.pdf"
+          ],
+          "tags": [
+            "Excel",
+            "Dashboard"
+          ]
+        },
+        {
+          "slug": "04-All-In-One-Workbook-and-Submission",
+          "title": "All-in-One Workbook + Submission Package",
+          "summary": "28-sheet merged workbook with clickable index, cover PDF with coverage matrix, 41-page complete submission PDF.",
+          "results": [
+            "5,149 formulas, 0 errors, 12 charts, 5 drop-downs"
+          ],
+          "tools": [
+            "Excel",
+            "PDF"
+          ],
+          "files": [
+            "Excel_Module1_ALL_IN_ONE_Eswar.xlsx",
+            "Excel_Module1_COMPLETE_Submission_Eswar.pdf",
+            "Submission_Cover.pdf"
+          ],
+          "tags": [
+            "Excel"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "06-Personal-Builds-and-Sites",
+      "key": "personal",
+      "title": "Personal Builds — Tools, Portfolio Sites & Blogs",
+      "tagline": "Self-initiated single-file web tools and publications (personal projects, not professional experience)",
+      "role": "Builder",
+      "org": "Self-initiated",
+      "projects": [
+        {
+          "slug": "01-Career-Control-Tower-GitHub-Profile",
+          "title": "Career Control Tower — GitHub Profile Dashboard",
+          "summary": "Multi-page profile (README + Education/Experience/Certifications/Projects/Simulations/Publications) with capsule headers, badges, mermaid timelines; navy/gold and Hindustani themes.",
+          "results": [
+            "7 pages, KPI badges, fitment snapshots"
+          ],
+          "tools": [
+            "Markdown",
+            "Mermaid",
+            "GitHub"
+          ],
+          "files": [
+            "README.md",
+            "*.md"
+          ],
+          "tags": [
+            "Brand",
+            "GitHub"
+          ]
+        },
+        {
+          "slug": "02-Portfolio-Websites",
+          "title": "Portfolio Websites (5 themes)",
+          "summary": "Classic navy/gold executive, 2050 Mission Control, superhero HUD, boarding-pass manifest, Dark Knight noir and Hindustani tricolour — all single-file Netlify sites; plus a cinematic Next.js (GSAP + Three.js) build on Vercel.",
+          "results": [
+            "Filterable project showcases, animated KPI bands"
+          ],
+          "tools": [
+            "HTML",
+            "CSS",
+            "JS",
+            "Next.js",
+            "Netlify",
+            "Vercel"
+          ],
+          "files": [
+            "index.html per theme",
+            "nextjs/"
+          ],
+          "tags": [
+            "Web",
+            "Brand"
+          ]
+        },
+        {
+          "slug": "03-Application-Engine",
+          "title": "Eswar Application Engine",
+          "summary": "Single-file tool with embedded profile generating tailored application packages (fit score, scam scan, cover letter, email, LinkedIn DM, CV notes) + pipeline tracker.",
+          "results": [
+            "Uses only verified metrics"
+          ],
+          "tools": [
+            "HTML",
+            "JS"
+          ],
+          "files": [
+            "application_engine.html"
+          ],
+          "tags": [
+            "Tool",
+            "Web"
+          ]
+        },
+        {
+          "slug": "04-Career-Tool-Suite",
+          "title": "Career Tool Suite (Netlify)",
+          "summary": "Auto-Apply Command Center, Career Assurance Engine, E-Commerce Universe directory, Tools Arsenal, Credential Vault.",
+          "results": [
+            "5 deployed single-file tools"
+          ],
+          "tools": [
+            "HTML",
+            "JS",
+            "Netlify"
+          ],
+          "files": [
+            "one .html per tool"
+          ],
+          "tags": [
+            "Tool",
+            "Web"
+          ]
+        },
+        {
+          "slug": "05-Master-Financial-Ledger",
+          "title": "Master Financial Ledger",
+          "summary": "Household budget tracker: vegetarian catalogue, bill scanning (AI + Tesseract.js OCR fallback), shopping directory, dashboard, history import.",
+          "results": [
+            "Diagnosed localStorage quota issue from base64 images"
+          ],
+          "tools": [
+            "HTML",
+            "JS",
+            "Tesseract.js"
+          ],
+          "files": [
+            "ledger.html"
+          ],
+          "tags": [
+            "Tool",
+            "Web"
+          ]
+        },
+        {
+          "slug": "06-All-In-One-Project-Register",
+          "title": "All-in-One Project Register",
+          "summary": "47-project data + product register: inputs, problem split, solution steps, tools, human+AI talent, skills→leadership, soft skills — PDF book, 10-sheet Excel, HTML dashboard.",
+          "results": [
+            "55-page PDF, 1,717-formula Excel, single-file dashboard"
+          ],
+          "tools": [
+            "PDF",
+            "Excel",
+            "HTML"
+          ],
+          "files": [
+            "Project_Register.pdf",
+            "Project_Register.xlsx",
+            "register_dashboard.html"
+          ],
+          "tags": [
+            "Docs",
+            "Dashboard"
+          ]
+        },
+        {
+          "slug": "07-Pickup-Notebook-Blog",
+          "title": "Pickup Notebook — Case-Study Blog",
+          "summary": "10-page blog from the Uber pickup case: 7 essays + Workbench craft notes.",
+          "results": [
+            "Netlify deploy, relative cross-links"
+          ],
+          "tools": [
+            "HTML",
+            "CSS"
+          ],
+          "files": [
+            "site/"
+          ],
+          "tags": [
+            "Blog",
+            "Product"
+          ]
+        },
+        {
+          "slug": "08-The-2000-SKU-Problem-Blog",
+          "title": "The 2,000 SKU Problem — Blog",
+          "summary": "Quick-commerce dark-store assortment: capacity framing, ABC×XYZ + basket-role segmentation, replenishment clock, availability measurement.",
+          "results": [
+            "4 essays + hub"
+          ],
+          "tools": [
+            "HTML",
+            "CSS"
+          ],
+          "files": [
+            "site/"
+          ],
+          "tags": [
+            "Blog",
+            "Supply Chain"
+          ]
+        },
+        {
+          "slug": "09-AI-Insights-Journal",
+          "title": "AI Insights Journal",
+          "summary": "Essay 01 'AI Product Race Changed Lanes' and Essay 02 'Inside the AI Takeover of E-Commerce' (agentic commerce, India angle).",
+          "results": [
+            "Stat sidebars, reading-progress bar, Read-Next cards"
+          ],
+          "tools": [
+            "HTML",
+            "CSS"
+          ],
+          "files": [
+            "essay01.html",
+            "essay02.html",
+            "combined.html"
+          ],
+          "tags": [
+            "Blog",
+            "AI"
+          ]
+        },
+        {
+          "slug": "10-PM-Strategy-and-Product-Craft-Blogs",
+          "title": "PM Strategy Series & Product-Craft Blogs",
+          "summary": "'Metrics Tell You What. Users Tell You Why.' + segmentation case; Figma ×2, Tools ×2, Skills ×2 and 'common man to product man'.",
+          "results": [
+            "9 single-file navy/gold blog sites"
+          ],
+          "tools": [
+            "HTML",
+            "CSS"
+          ],
+          "files": [
+            "*.html"
+          ],
+          "tags": [
+            "Blog",
+            "Product"
+          ]
+        },
+        {
+          "slug": "11-Assessments-and-Assignments",
+          "title": "Company Assessments & Assignments",
+          "summary": "RoaDo FreightOS CSM/Ops analyst assessment (PDF, PPT, Excel, Python), InvestMyFunds CA-partner growth assignment, Tata Motors role targeting, Gen AI Academy APAC tracks.",
+          "results": [
+            "Full submission packages delivered"
+          ],
+          "tools": [
+            "PDF",
+            "PPTX",
+            "Excel",
+            "Python"
+          ],
+          "files": [
+            "RoaDo/",
+            "InvestMyFunds/",
+            "GenAI_Academy/"
+          ],
+          "tags": [
+            "Docs",
+            "Ops"
+          ]
+        }
+      ]
+    }
+  ]
+}

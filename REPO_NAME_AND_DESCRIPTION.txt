@@ -1,0 +1,11 @@
+REPOSITORY NAME
+Eswar-Master-Project-Portfolio-2026
+
+DESCRIPTION (321/350 characters — paste into the GitHub "Description" box)
+Master portfolio of 80+ delivered projects in one navigable repo — 13 HEXA data-analytics builds, 8 product-management case studies, 16 Internship Studio multi-domain packs, 30 Codec EV & cyber-security projects (452 tests), Excel mastery module and self-built tools. Dashboard → track → project → PDF, Excel, deck, code.
+
+TOPICS (paste into GitHub topics)
+portfolio data-analytics product-management excel python machine-learning cyber-security electric-vehicles dashboards case-studies internship-projects
+
+WEBSITE (after enabling GitHub Pages)
+https://YOUR-USERNAME.github.io/Eswar-Master-Project-Portfolio-2026/
