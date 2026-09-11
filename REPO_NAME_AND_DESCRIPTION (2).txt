@@ -1,0 +1,11 @@
+REPOSITORY NAME
+Eswar-Portfolio-Lens-Index-2026
+
+DESCRIPTION (339/350 characters)
+Skills-first index of my 103-project portfolio: the same work viewed by domain, skill, tool, sector, target role, deliverable, method, data provenance and programme — now including 50 engineering projects (VLSI, robotics, EV, cyber). Pick what you are hiring for and land on the evidence: every entry links to its report, workbook or code.
+
+TOPICS
+portfolio skills-matrix data-analytics product-management excel python machine-learning cyber-security electric-vehicles vlsi fpga robotics industry-index career
+
+WEBSITE (after enabling GitHub Pages)
+https://eswar5313.github.io/Eswar-Portfolio-Lens-Index-2026/
