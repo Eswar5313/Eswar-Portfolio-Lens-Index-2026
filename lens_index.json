@@ -2,7 +2,7 @@
  "repo": "Eswar-Portfolio-Lens-Index-2026",
  "master": "Eswar-Master-Project-Portfolio-2026",
  "codec": "Codec-Technologies-Internship-Portfolio-2026",
- "total": 103,
+ "total": 112,
  "lenses": [
   {
    "key": "domain",
@@ -430,8 +430,8 @@
     "Docs"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/00-Portfolio-Package",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/00-Portfolio-Package/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/00-Portfolio-Package",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -488,8 +488,8 @@
     "Supply Chain"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/01-FedEx-Logistics-EDA",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/01-FedEx-Logistics-EDA/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/01-FedEx-Logistics-EDA",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -540,8 +540,8 @@
     "HR"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/02-Mental-Health-in-Tech",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/02-Mental-Health-in-Tech/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/02-Mental-Health-in-Tech",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -595,8 +595,8 @@
     "CX"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/03-Flipkart-CSAT-Analysis",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/03-Flipkart-CSAT-Analysis/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/03-Flipkart-CSAT-Analysis",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -647,8 +647,8 @@
     "Food-tech"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/04-Zomato-Restaurant-EDA",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/04-Zomato-Restaurant-EDA/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/04-Zomato-Restaurant-EDA",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -697,8 +697,8 @@
     "Media"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/05-Amazon-Prime-Catalogue-EDA",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/05-Amazon-Prime-Catalogue-EDA/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/05-Amazon-Prime-Catalogue-EDA",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -749,8 +749,8 @@
     "Retail"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/06-Video-Game-Sales",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/06-Video-Game-Sales/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/06-Video-Game-Sales",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -801,8 +801,8 @@
     "Finance"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/07-SQL-NSE-Stock-Market",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/07-SQL-NSE-Stock-Market/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/07-SQL-NSE-Stock-Market",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -850,8 +850,8 @@
     "EV"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/08-India-EV-Dashboard",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/08-India-EV-Dashboard/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/08-India-EV-Dashboard",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -903,8 +903,8 @@
     "Hospitality"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/09-Airbnb-Dashboard",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/09-Airbnb-Dashboard/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/09-Airbnb-Dashboard",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -952,8 +952,8 @@
     "Health-tech"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/10-Strava-Fitbit-Fitness-Analytics",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/10-Strava-Fitbit-Fitness-Analytics/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/10-Strava-Fitbit-Fitness-Analytics",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -1001,8 +1001,8 @@
     "Mobility"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/11-Uber-Supply-Demand-Gap",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/11-Uber-Supply-Demand-Gap/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/11-Uber-Supply-Demand-Gap",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -1052,8 +1052,8 @@
     "App"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/12-Tennis-SportRadar-API-Pipeline",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/12-Tennis-SportRadar-API-Pipeline/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/12-Tennis-SportRadar-API-Pipeline",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -1102,8 +1102,8 @@
     "Real Estate"
    ],
    "track": "HEXA Solutions — Data Analytics Portfolio",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/01-HEXA-Data-Analytics/13-Dubai-House-Price-Model",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/01-HEXA-Data-Analytics/13-Dubai-House-Price-Model/index.html",
+   "master_folder": "https://eswar5313.github.io/hexa-data-analytics-portfolio/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#01-HEXA-Data-Analytics/13-Dubai-House-Price-Model",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -1155,8 +1155,8 @@
     "Research"
    ],
    "track": "Product Management — Case Studies",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/01-Nykaa-UX-Exploration",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/02-Product-Management-Case-Studies/01-Nykaa-UX-Exploration/index.html",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/01-Nykaa-UX-Exploration",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -1215,8 +1215,8 @@
     "B2B"
    ],
    "track": "Product Management — Case Studies",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/02-AI-Customer-Operations-Platform-B2B-SaaS",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/02-Product-Management-Case-Studies/02-AI-Customer-Operations-Platform-B2B-SaaS/index.html",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/02-AI-Customer-Operations-Platform-B2B-SaaS",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -1274,8 +1274,8 @@
     "Mobility"
    ],
    "track": "Product Management — Case Studies",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/03-Uber-Pickup-Coordination",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/02-Product-Management-Case-Studies/03-Uber-Pickup-Coordination/index.html",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/03-Uber-Pickup-Coordination",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -1328,8 +1328,8 @@
     "Quick-commerce"
    ],
    "track": "Product Management — Case Studies",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/04-Zepto-AOV-Basket-Size",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/02-Product-Management-Case-Studies/04-Zepto-AOV-Basket-Size/index.html",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/04-Zepto-AOV-Basket-Size",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -1383,8 +1383,8 @@
     "Health-tech"
    ],
    "track": "Product Management — Case Studies",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/05-VitaFit-PRD-and-Core-Flows",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/02-Product-Management-Case-Studies/05-VitaFit-PRD-and-Core-Flows/index.html",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/05-VitaFit-PRD-and-Core-Flows",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -1437,8 +1437,8 @@
     "Quick-commerce"
    ],
    "track": "Product Management — Case Studies",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/06-Blinkit-Strategy-Roadmap",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/02-Product-Management-Case-Studies/06-Blinkit-Strategy-Roadmap/index.html",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/06-Blinkit-Strategy-Roadmap",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -1486,8 +1486,8 @@
     "Quick-commerce"
    ],
    "track": "Product Management — Case Studies",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/07-Grocery-Delivery-Segmentation-Sprint",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/02-Product-Management-Case-Studies/07-Grocery-Delivery-Segmentation-Sprint/index.html",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/07-Grocery-Delivery-Segmentation-Sprint",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -1536,8 +1536,8 @@
     "Learning"
    ],
    "track": "Product Management — Case Studies",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/02-Product-Management-Case-Studies/08-PM-Lesson-Notes-and-Trends",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/02-Product-Management-Case-Studies/08-PM-Lesson-Notes-and-Trends/index.html",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/08-PM-Lesson-Notes-and-Trends",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -1586,9 +1586,9 @@
     "ML",
     "Python"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/01-Exam-Proctoring-AI-Panopticon",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/01-Exam-Proctoring-AI-Panopticon/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/01-Exam-Proctoring-AI-Panopticon",
    "domain": [
     "Software, Cloud & Web"
    ],
@@ -1620,7 +1620,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -1638,9 +1638,9 @@
     "ML",
     "IoT"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/02-Predictive-Maintenance-IoT-ML",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/02-Predictive-Maintenance-IoT-ML/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/02-Predictive-Maintenance-IoT-ML",
    "domain": [
     "Data Analytics & Science"
    ],
@@ -1671,7 +1671,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -1687,9 +1687,9 @@
     "Software Testing",
     "Excel"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/03-Regression-Test-Prioritisation-APFD",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/03-Regression-Test-Prioritisation-APFD/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/03-Regression-Test-Prioritisation-APFD",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -1727,7 +1727,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -1743,9 +1743,9 @@
     "C++",
     "DSA"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/04-Smart-Library-Management-CPP",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/04-Smart-Library-Management-CPP/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/04-Smart-Library-Management-CPP",
    "domain": [
     "Software, Cloud & Web"
    ],
@@ -1772,7 +1772,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -1788,9 +1788,9 @@
     "Energy",
     "Excel"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/05-Textile-Electricity-Bill-Energy-Audit",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/05-Textile-Electricity-Bill-Energy-Audit/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/05-Textile-Electricity-Bill-Energy-Audit",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -1820,7 +1820,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -1836,9 +1836,9 @@
     "Civil",
     "Structures"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/06-RCC-Structural-Design-IS456",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/06-RCC-Structural-Design-IS456/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/06-RCC-Structural-Design-IS456",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -1870,7 +1870,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -1888,9 +1888,9 @@
     "Web",
     "JavaScript"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/07-CartShare-Collaborative-Cart",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/07-CartShare-Collaborative-Cart/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/07-CartShare-Collaborative-Cart",
    "domain": [
     "Software, Cloud & Web"
    ],
@@ -1918,7 +1918,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -1935,9 +1935,9 @@
     "AutoCAD",
     "Engineering"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/08-AutoCAD-Civil-Electrical-Mechanical",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/08-AutoCAD-Civil-Electrical-Mechanical/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/08-AutoCAD-Civil-Electrical-Mechanical",
    "domain": [
     "Civil & CAD Engineering"
    ],
@@ -1962,7 +1962,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -1978,9 +1978,9 @@
     "Finance",
     "Excel"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/09-Financial-Ratio-Analysis-Aurora-Foods",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/09-Financial-Ratio-Analysis-Aurora-Foods/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/09-Financial-Ratio-Analysis-Aurora-Foods",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -2010,7 +2010,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -2026,9 +2026,9 @@
     "Dashboard",
     "Sales"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/10-Multi-Region-Sales-Dashboard-Excel",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/10-Multi-Region-Sales-Dashboard-Excel/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/10-Multi-Region-Sales-Dashboard-Excel",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -2056,7 +2056,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -2072,9 +2072,9 @@
     "HR",
     "Policy"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/11-HR-Policy-Framework-Onboarding-Engagement",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/11-HR-Policy-Framework-Onboarding-Engagement/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/11-HR-Policy-Framework-Onboarding-Engagement",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -2104,7 +2104,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -2121,9 +2121,9 @@
     "ML",
     "Python"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/12-Student-Performance-ML-Regression",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/12-Student-Performance-ML-Regression/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/12-Student-Performance-ML-Regression",
    "domain": [
     "Software, Cloud & Web"
    ],
@@ -2153,7 +2153,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -2172,9 +2172,9 @@
     "AWS",
     "Node.js"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/13-AWS-EC2-S3-NodeJS-ROS-Deployment",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/13-AWS-EC2-S3-NodeJS-ROS-Deployment/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/13-AWS-EC2-S3-NodeJS-ROS-Deployment",
    "domain": [
     "Software, Cloud & Web"
    ],
@@ -2202,7 +2202,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -2218,9 +2218,9 @@
     "Psychology",
     "HR"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/14-Employee-Wellbeing-Program-TechX",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/14-Employee-Wellbeing-Program-TechX/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/14-Employee-Wellbeing-Program-TechX",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -2256,7 +2256,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -2272,9 +2272,9 @@
     "Design",
     "Illustrator"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/15-Illustrator-Vector-Design-Portfolio",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/15-Illustrator-Vector-Design-Portfolio/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/15-Illustrator-Vector-Design-Portfolio",
    "domain": [
     "Design, Marketing & Content"
    ],
@@ -2302,7 +2302,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -2319,9 +2319,9 @@
     "Marketing",
     "Excel"
    ],
-   "track": "Internship Studio — 16 Multi-Domain Projects",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/03-Internship-Studio-Projects/16-EcoStyle-Facebook-Ads-Campaign-Plan",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/03-Internship-Studio-Projects/16-EcoStyle-Facebook-Ads-Campaign-Plan/index.html",
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/16-EcoStyle-Facebook-Ads-Campaign-Plan",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -2356,7 +2356,7 @@
     "Internship Studio"
    ],
    "source_track": [
-    "Internship Studio — 16 Multi-Domain Projects"
+    "Internship Studio — 18 Multi-Domain Projects"
    ]
   },
   {
@@ -3804,8 +3804,8 @@
     "Excel"
    ],
    "track": "Data Analytics Module 1 — Excel Mastery",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/01-Data-Exploration",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/05-Excel-Data-Analytics-Module/01-Data-Exploration/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module/01-Data-Exploration",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module/01-Data-Exploration",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -3850,8 +3850,8 @@
     "Excel"
    ],
    "track": "Data Analytics Module 1 — Excel Mastery",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/02-Data-Cleaning-Pipeline",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/05-Excel-Data-Analytics-Module/02-Data-Cleaning-Pipeline/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module/02-Data-Cleaning-Pipeline",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module/02-Data-Cleaning-Pipeline",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -3896,8 +3896,8 @@
     "Dashboard"
    ],
    "track": "Data Analytics Module 1 — Excel Mastery",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/03-Advanced-Analysis-Lookups-Pivots-Dashboard",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/05-Excel-Data-Analytics-Module/03-Advanced-Analysis-Lookups-Pivots-Dashboard/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module/03-Advanced-Analysis-Lookups-Pivots-Dashboard",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module/03-Advanced-Analysis-Lookups-Pivots-Dashboard",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -3945,8 +3945,8 @@
     "Excel"
    ],
    "track": "Data Analytics Module 1 — Excel Mastery",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/05-Excel-Data-Analytics-Module/04-All-In-One-Workbook-and-Submission",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/05-Excel-Data-Analytics-Module/04-All-In-One-Workbook-and-Submission/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module/04-All-In-One-Workbook-and-Submission",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#05-Excel-Data-Analytics-Module/04-All-In-One-Workbook-and-Submission",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -3993,8 +3993,8 @@
     "GitHub"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/01-Career-Control-Tower-GitHub-Profile",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/01-Career-Control-Tower-GitHub-Profile/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/01-Career-Control-Tower-GitHub-Profile",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/01-Career-Control-Tower-GitHub-Profile",
    "domain": [
     "Design, Marketing & Content"
    ],
@@ -4039,8 +4039,8 @@
     "Brand"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/02-Portfolio-Websites",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/02-Portfolio-Websites/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/02-Portfolio-Websites",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/02-Portfolio-Websites",
    "domain": [
     "Design, Marketing & Content"
    ],
@@ -4085,8 +4085,8 @@
     "Web"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/03-Application-Engine",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/03-Application-Engine/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/03-Application-Engine",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/03-Application-Engine",
    "domain": [
     "Electric Vehicles & Embedded Engineering"
    ],
@@ -4130,8 +4130,8 @@
     "Web"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/04-Career-Tool-Suite",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/04-Career-Tool-Suite/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/04-Career-Tool-Suite",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/04-Career-Tool-Suite",
    "domain": [
     "Software, Cloud & Web"
    ],
@@ -4176,8 +4176,8 @@
     "Web"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/05-Master-Financial-Ledger",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/05-Master-Financial-Ledger/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/05-Master-Financial-Ledger",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/05-Master-Financial-Ledger",
    "domain": [
     "Software, Cloud & Web"
    ],
@@ -4224,8 +4224,8 @@
     "Dashboard"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/06-All-In-One-Project-Register",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/06-All-In-One-Project-Register/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/06-All-In-One-Project-Register",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/06-All-In-One-Project-Register",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -4276,8 +4276,8 @@
     "Product"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/07-Pickup-Notebook-Blog",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/07-Pickup-Notebook-Blog/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/07-Pickup-Notebook-Blog",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/07-Pickup-Notebook-Blog",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -4326,8 +4326,8 @@
     "Supply Chain"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/08-The-2000-SKU-Problem-Blog",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/08-The-2000-SKU-Problem-Blog/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/08-The-2000-SKU-Problem-Blog",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/08-The-2000-SKU-Problem-Blog",
    "domain": [
     "Design, Marketing & Content"
    ],
@@ -4373,8 +4373,8 @@
     "AI"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/09-AI-Insights-Journal",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/09-AI-Insights-Journal/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/09-AI-Insights-Journal",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/09-AI-Insights-Journal",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -4420,8 +4420,8 @@
     "Product"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/10-PM-Strategy-and-Product-Craft-Blogs",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/10-PM-Strategy-and-Product-Craft-Blogs/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/10-PM-Strategy-and-Product-Craft-Blogs",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/10-PM-Strategy-and-Product-Craft-Blogs",
    "domain": [
     "Product Management & Strategy"
    ],
@@ -4469,8 +4469,8 @@
     "Ops"
    ],
    "track": "Personal Builds — Tools, Portfolio Sites & Blogs",
-   "master_folder": "https://github.com/Eswar5313/Eswar-Master-Project-Portfolio-2026/tree/main/06-Personal-Builds-and-Sites/11-Assessments-and-Assignments",
-   "master_page": "https://Eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/06-Personal-Builds-and-Sites/11-Assessments-and-Assignments/index.html",
+   "master_folder": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/11-Assessments-and-Assignments",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#06-Personal-Builds-and-Sites/11-Assessments-and-Assignments",
    "domain": [
     "Finance, Energy & Excel Modelling"
    ],
@@ -5716,6 +5716,481 @@
    ],
    "source_track": [
     "Codec Technologies — 4 tracks (EV 10 · Cyber 20 · VLSI 10 · Robotics 10)"
+   ]
+  },
+  {
+   "id": "02-Product-Management-Case-Studies/09-Zomato-Funnel-Cohorts-North-Star",
+   "title": "Zomato — Funnel, Cohorts & North Star",
+   "summary": "Tier-1 food delivery: 7-stage Discovery → Order → Delivery funnel, three cohort cuts, North Star and metric ladders for 13 solutions, 4 KRs.",
+   "result": "Delivered 17.6 % → 26.4 % target (declared-synthetic funnel)",
+   "tools": [
+    "PDF",
+    "Excel",
+    "PPTX"
+   ],
+   "tags": [
+    "PDF",
+    "Excel",
+    "PPTX"
+   ],
+   "track": "Product Management — Case Studies",
+   "master_folder": "https://eswar-pm-case-notes.netlify.app/zomato-funnel.html",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/09-Zomato-Funnel-Cohorts-North-Star",
+   "source_track": [
+    "Product Management — Case Studies"
+   ],
+   "domain": [
+    "Product Management & Strategy"
+   ],
+   "skills": [
+    "Product strategy",
+    "Statistics & correlation",
+    "Excel modelling & formulas",
+    "Presentation & storytelling"
+   ],
+   "sector": [
+    "Food & Hospitality",
+    "E-commerce & Quick-commerce"
+   ],
+   "role": [
+    "Product Manager / APM",
+    "Business / Strategy Analyst"
+   ],
+   "deliverable": [
+    "PDF report",
+    "Excel workbook (live formulas)",
+    "Presentation deck"
+   ],
+   "method": [
+    "Holdout / A-B experiment design",
+    "Pivot / cross-tab analysis"
+   ],
+   "provenance": [
+    "Declared-synthetic / substituted data"
+   ],
+   "programme": [
+    "Airtribe / self-directed"
+   ]
+  },
+  {
+   "id": "02-Product-Management-Case-Studies/10-Airbnb-India-PLG-MVPs-Revenue",
+   "title": "Airbnb India — PLG Loops, MVPs & Revenue Model",
+   "summary": "Enablers E1–E6, loops L1–L6, India flywheel, four MVPs with a shared experiment contract and a five-layer revenue model.",
+   "result": "4 MVPs · RICE roadmap · pre-mortem",
+   "tools": [
+    "PDF",
+    "Excel",
+    "PPTX"
+   ],
+   "tags": [
+    "PDF",
+    "Excel",
+    "PPTX"
+   ],
+   "track": "Product Management — Case Studies",
+   "master_folder": "https://eswar-pm-case-notes.netlify.app/airbnb-plg.html",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/10-Airbnb-India-PLG-MVPs-Revenue",
+   "source_track": [
+    "Product Management — Case Studies"
+   ],
+   "domain": [
+    "Product Management & Strategy"
+   ],
+   "skills": [
+    "Product strategy",
+    "Prioritisation frameworks (RICE etc.)",
+    "Financial analysis",
+    "Excel modelling & formulas"
+   ],
+   "sector": [
+    "Real Estate",
+    "IT, SaaS & AI Products"
+   ],
+   "role": [
+    "Product Manager / APM",
+    "Marketing / Growth Manager"
+   ],
+   "deliverable": [
+    "PDF report",
+    "Excel workbook (live formulas)",
+    "Presentation deck"
+   ],
+   "method": [
+    "Holdout / A-B experiment design"
+   ],
+   "provenance": [
+    "Declared-synthetic / substituted data"
+   ],
+   "programme": [
+    "Airtribe / self-directed"
+   ]
+  },
+  {
+   "id": "02-Product-Management-Case-Studies/11-QuickBite-System-Design-Brief",
+   "title": "QuickBite — National-Rollout System Design Brief",
+   "summary": "Food-delivery platform from 5,000 users to 2 M in 12 months: requirements, data model, architecture, request flow, consistency trade-offs and incident drill.",
+   "result": "~40k orders/day, ~1.5 orders/s peak traffic model",
+   "tools": [
+    "PDF",
+    "Excel",
+    "PPTX"
+   ],
+   "tags": [
+    "PDF",
+    "Excel",
+    "PPTX"
+   ],
+   "track": "Product Management — Case Studies",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/11-QuickBite-System-Design-Brief",
+   "source_track": [
+    "Product Management — Case Studies"
+   ],
+   "domain": [
+    "Product Management & Strategy",
+    "Software, Cloud & Web"
+   ],
+   "skills": [
+    "PRD & product specification",
+    "Technical writing & documentation",
+    "Simulation & modelling"
+   ],
+   "sector": [
+    "Food & Hospitality",
+    "IT, SaaS & AI Products"
+   ],
+   "role": [
+    "Product Manager / APM",
+    "Software / Web Developer"
+   ],
+   "deliverable": [
+    "PDF report",
+    "Excel workbook (live formulas)",
+    "Presentation deck"
+   ],
+   "method": [],
+   "provenance": [
+    "Company-supplied brief / case data"
+   ],
+   "programme": [
+    "Airtribe / self-directed"
+   ]
+  },
+  {
+   "id": "02-Product-Management-Case-Studies/12-SkillBridge-Compass-Recommendations",
+   "title": "SkillBridge \"Compass\" — Learning Recommendation System",
+   "summary": "Personalised recommendations for learners, instructors and admins; user stories, FR/NFR tables, architecture and a hybrid batch + real-time trade-off.",
+   "result": "Targets +25 % engagement, +30 % completion, +20 % satisfaction",
+   "tools": [
+    "PDF",
+    "Excel",
+    "PPTX"
+   ],
+   "tags": [
+    "PDF",
+    "Excel",
+    "PPTX"
+   ],
+   "track": "Product Management — Case Studies",
+   "master_folder": "https://github.com/Eswar5313/product-management-case-studies",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#02-Product-Management-Case-Studies/12-SkillBridge-Compass-Recommendations",
+   "source_track": [
+    "Product Management — Case Studies"
+   ],
+   "domain": [
+    "Product Management & Strategy",
+    "Data Analytics & Science"
+   ],
+   "skills": [
+    "PRD & product specification",
+    "Machine learning",
+    "Technical writing & documentation"
+   ],
+   "sector": [
+    "Education & EdTech",
+    "IT, SaaS & AI Products"
+   ],
+   "role": [
+    "Product Manager / APM",
+    "Data Scientist / ML Engineer"
+   ],
+   "deliverable": [
+    "PDF report",
+    "Excel workbook (live formulas)",
+    "Presentation deck"
+   ],
+   "method": [],
+   "provenance": [
+    "Company-supplied brief / case data"
+   ],
+   "programme": [
+    "Airtribe / self-directed"
+   ]
+  },
+  {
+   "id": "03-Internship-Studio-Projects/17-Export-Order-Payment-Finance-Model",
+   "title": "Export Order Payment & Finance Model",
+   "summary": "International Business module: five payment terms valued at 12 % cost of capital, UCP 600 discrepancy check and EXIM / WTO / World Bank context.",
+   "result": "Recommend confirmed sight LC — PV USD 579,735, all-in 3.38 %",
+   "tools": [
+    "Excel",
+    "Python",
+    "PDF"
+   ],
+   "tags": [
+    "Excel",
+    "Python",
+    "PDF"
+   ],
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/Export-Order-Payment-Finance-Model-2026/Export-Order-Payment-Finance-Model-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/17-Export-Order-Payment-Finance-Model",
+   "source_track": [
+    "Internship Studio — 18 Multi-Domain Projects"
+   ],
+   "domain": [
+    "Finance, Energy & Excel Modelling"
+   ],
+   "skills": [
+    "Financial analysis",
+    "Excel modelling & formulas",
+    "Python programming"
+   ],
+   "sector": [
+    "Fintech & Financial Services",
+    "Logistics & Supply Chain"
+   ],
+   "role": [
+    "Business / Strategy Analyst",
+    "Supply Chain / Operations Manager"
+   ],
+   "deliverable": [
+    "Excel workbook (live formulas)",
+    "PDF report"
+   ],
+   "method": [
+    "Lookup modelling (VLOOKUP/INDEX-MATCH)"
+   ],
+   "provenance": [
+    "Company-supplied brief / case data"
+   ],
+   "programme": [
+    "Internship Studio"
+   ]
+  },
+  {
+   "id": "03-Internship-Studio-Projects/18-Reel-Editing-Production-Blueprint",
+   "title": "Reel Production Blueprint — \"Kulhad & Co.\"",
+   "summary": "Video Editing module: 48 s shop-intro reel at 96 BPM — timeline plan, Premiere Pro stage map, cover-frame template and sources credit log.",
+   "result": "16/16 techniques + 5/5 bonus planned",
+   "tools": [
+    "Premiere Pro",
+    "CSV",
+    "PDF"
+   ],
+   "tags": [
+    "Premiere Pro",
+    "CSV",
+    "PDF"
+   ],
+   "track": "Internship Studio — 18 Multi-Domain Projects",
+   "master_folder": "https://eswar5313.github.io/Internship-Studio-Projects-2026/Reel-Editing-Project-2026/Reel-Editing-Project-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#03-Internship-Studio-Projects/18-Reel-Editing-Production-Blueprint",
+   "source_track": [
+    "Internship Studio — 18 Multi-Domain Projects"
+   ],
+   "domain": [
+    "Design, Marketing & Content"
+   ],
+   "skills": [
+    "Digital marketing",
+    "Graphic & vector design"
+   ],
+   "sector": [
+    "Retail & Consumer Brands",
+    "Media, Gaming & Entertainment"
+   ],
+   "role": [
+    "Designer (UX / Graphic)",
+    "Marketing / Growth Manager"
+   ],
+   "deliverable": [
+    "PDF report",
+    "Video / Loom"
+   ],
+   "method": [],
+   "provenance": [
+    "Own build (no external dataset)"
+   ],
+   "programme": [
+    "Internship Studio"
+   ]
+  },
+  {
+   "id": "07-Applied-Data-Science-and-Security/01-Project-FORESIGHT",
+   "title": "Project FORESIGHT — Demand & Inventory Intelligence",
+   "summary": "NorthBay Living (D2C home & lifestyle): weekly SKU forecast, stockout early-warning, overstock flag and an ops dashboard with a scoring API.",
+   "result": "Backtest WAPE 8.8 % (LightGBM) vs 11.2 % seasonal-naive; wins 6/6 folds, 49/50 SKUs",
+   "tools": [
+    "Python",
+    "LightGBM",
+    "pandas",
+    "Netlify Functions",
+    "Streamlit"
+   ],
+   "tags": [
+    "Python",
+    "LightGBM",
+    "pandas",
+    "Netlify Functions"
+   ],
+   "track": "Applied Data Science, Supply Chain & Security — 2026 Engagements",
+   "master_folder": "https://github.com/Eswar5313/zidio-data-science-projects",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#07-Applied-Data-Science-and-Security/01-Project-FORESIGHT",
+   "source_track": [
+    "Applied Data Science, Supply Chain & Security — 2026 Engagements"
+   ],
+   "domain": [
+    "Data Analytics & Science"
+   ],
+   "skills": [
+    "Machine learning",
+    "Python programming",
+    "Dashboard design",
+    "API & data pipelines",
+    "Exploratory data analysis"
+   ],
+   "sector": [
+    "Retail & Consumer Brands",
+    "Logistics & Supply Chain",
+    "E-commerce & Quick-commerce"
+   ],
+   "role": [
+    "Data Scientist / ML Engineer",
+    "Data Analyst / BI Analyst",
+    "Supply Chain / Operations Manager"
+   ],
+   "deliverable": [
+    "Interactive dashboard",
+    "Code / notebook",
+    "PDF report",
+    "Web app / site"
+   ],
+   "method": [
+    "Forecasting (moving average, logistic, Bass)",
+    "Exploratory data analysis"
+   ],
+   "provenance": [
+    "Company-supplied brief / case data"
+   ],
+   "programme": [
+    "Zidio Development"
+   ]
+  },
+  {
+   "id": "07-Applied-Data-Science-and-Security/02-Heavy-Warehouse-Intelligence",
+   "title": "Heavy Warehouse Intelligence (CadetX)",
+   "summary": "12-sprint analytics framework on a heavy-equipment spare-parts supply chain — 6 branches, 30 SKUs, 8 suppliers, 500 customers, 2019–2024.",
+   "result": "Data dictionary, KPI framework, data-quality report, profiling & cleaning notebooks",
+   "tools": [
+    "Python",
+    "pandas",
+    "Excel",
+    "Power BI"
+   ],
+   "tags": [
+    "Python",
+    "pandas",
+    "Excel",
+    "Power BI"
+   ],
+   "track": "Applied Data Science, Supply Chain & Security — 2026 Engagements",
+   "master_folder": "https://github.com/Eswar5313/Cadetx-Junior-DA",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#07-Applied-Data-Science-and-Security/02-Heavy-Warehouse-Intelligence",
+   "source_track": [
+    "Applied Data Science, Supply Chain & Security — 2026 Engagements"
+   ],
+   "domain": [
+    "Data Analytics & Science"
+   ],
+   "skills": [
+    "Python programming",
+    "Exploratory data analysis",
+    "Excel modelling & formulas",
+    "SQL & databases"
+   ],
+   "sector": [
+    "Logistics & Supply Chain",
+    "Manufacturing, Energy & Utilities"
+   ],
+   "role": [
+    "Supply Chain / Operations Manager",
+    "Data Analyst / BI Analyst",
+    "Data Scientist / ML Engineer"
+   ],
+   "deliverable": [
+    "Code / notebook",
+    "Excel workbook (live formulas)",
+    "Dataset"
+   ],
+   "method": [
+    "Exploratory data analysis"
+   ],
+   "provenance": [
+    "Company-supplied brief / case data"
+   ],
+   "programme": [
+    "CadetX"
+   ]
+  },
+  {
+   "id": "07-Applied-Data-Science-and-Security/03-GraySentinel-Blue-Team",
+   "title": "GraySentinel DSOU — Blue-Team Labs & SOC Tools",
+   "summary": "Two certified guided labs, Sigma / Wazuh / KQL detections, Entra ID hunts and four stdlib-Python SOC tools on declared-synthetic data.",
+   "result": "46 automated tests across SOC tools",
+   "tools": [
+    "Python",
+    "Sigma",
+    "Wazuh",
+    "KQL"
+   ],
+   "tags": [
+    "Python",
+    "Sigma",
+    "Wazuh",
+    "KQL"
+   ],
+   "track": "Applied Data Science, Supply Chain & Security — 2026 Engagements",
+   "master_folder": "https://eswar5313.github.io/GraySentinel-DSOU-45Day-2026/",
+   "master_page": "https://eswar5313.github.io/Eswar-Master-Project-Portfolio-2026/#07-Applied-Data-Science-and-Security/03-GraySentinel-Blue-Team",
+   "source_track": [
+    "Applied Data Science, Supply Chain & Security — 2026 Engagements"
+   ],
+   "domain": [
+    "Cyber Security (Defensive)"
+   ],
+   "skills": [
+    "Security analysis (defensive)",
+    "Python programming",
+    "Software testing & QA"
+   ],
+   "sector": [
+    "Cyber Security"
+   ],
+   "role": [
+    "Security Analyst (SOC / Blue Team)"
+   ],
+   "deliverable": [
+    "Code / notebook",
+    "PDF report",
+    "Interactive dashboard"
+   ],
+   "method": [],
+   "provenance": [
+    "Declared-synthetic / substituted data"
+   ],
+   "programme": [
+    "GraySentinel Cyber Defence Lab"
    ]
   }
  ]
