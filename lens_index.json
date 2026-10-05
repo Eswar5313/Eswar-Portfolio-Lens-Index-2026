@@ -80,6 +80,7 @@
     "CRC-8",
     "CSP",
     "CSS",
+    "CSV",
     "CTF",
     "Canary",
     "Carving",
@@ -128,10 +129,12 @@
     "JavaScript",
     "Jest",
     "Jupyter",
+    "KQL",
     "Kalman",
     "LCA",
     "LM IK",
     "LiDAR sim",
+    "LightGBM",
     "Loom",
     "MFCC + DTW",
     "MITRE ATT&CK",
@@ -147,6 +150,7 @@
     "NSL-KDD",
     "Nav2 skeleton",
     "Netlify",
+    "Netlify Functions",
     "Next.js",
     "Nmap",
     "Node.js",
@@ -163,6 +167,8 @@
     "PPTX",
     "Playwright",
     "Plotly Dash",
+    "Power BI",
+    "Premiere Pro",
     "Python",
     "REST API",
     "RFID/GPS",
@@ -184,6 +190,7 @@
     "SVM / RF",
     "SciPy",
     "Scikit-learn",
+    "Sigma",
     "SimPy",
     "Streamlit",
     "TDOA",
@@ -198,6 +205,7 @@
     "Vercel",
     "Verilog",
     "Verilog DSP",
+    "Wazuh",
     "Web vulns",
     "Webots .wbt",
     "Word/PDF",
@@ -391,11 +399,14 @@
    "desc": "Where the work was done",
    "values": [
     "Airtribe / self-directed",
+    "CadetX",
     "Codec Technologies India",
     "Data Analytics program",
+    "GraySentinel Cyber Defence Lab",
     "HEXA Solutions, Ghaziabad NCR",
     "Internship Studio",
-    "Self-initiated"
+    "Self-initiated",
+    "Zidio Development"
    ]
   },
   {
@@ -403,10 +414,11 @@
    "name": "Source Track",
    "desc": "Folder in the master repository",
    "values": [
+    "Applied Data Science, Supply Chain & Security — 2026 Engagements",
     "Codec Technologies — 4 tracks (EV 10 · Cyber 20 · VLSI 10 · Robotics 10)",
     "Data Analytics Module 1 — Excel Mastery",
     "HEXA Solutions — Data Analytics Portfolio",
-    "Internship Studio — 16 Multi-Domain Projects",
+    "Internship Studio — 18 Multi-Domain Projects",
     "Personal Builds — Tools, Portfolio Sites & Blogs",
     "Product Management — Case Studies"
    ]
